@@ -108,7 +108,7 @@ python upload.py
 ---
 
 ## 📁 Project Structure
-
+```
 |Ai-full-stack-project/ 
 ├── mobile.html # Main web UI page 
 ├── mobile-web-video-playback.js # Frontend logic for video handling 
@@ -116,9 +116,7 @@ python upload.py
 ├── upload.py # Backend Python server 
 ├── requirements.txt # Dependencies file and
 └── (AI / Model files) # AI model scripts, weights, or utils v
-
-
-
+```
 ---
 
 ## 🤝 Contributing
@@ -158,3 +156,4 @@ See the [LICENSE](LICENSE) file for more details.
 **Author:** Suru12415  
 **GitHub:** [Suru12415](https://github.com/Suru12415)  
 **Email:** *try.sureshtak@gmail.com*  
+
