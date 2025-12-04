@@ -81,6 +81,8 @@ cd Ai-full-stack-project
 ```
 2. Set up a Python virtual environment
 ```bash
+install python 3.10 from 
+https://www.python.org/downloads/source/
 python3 -m venv venv
 source venv/bin/activate   # On Windows use: venv\Scripts\activate
 ```
@@ -156,4 +158,5 @@ See the [LICENSE](LICENSE) file for more details.
 **Author:** Suru12415  
 **GitHub:** [Suru12415](https://github.com/Suru12415)  
 **Email:** *try.sureshtak@gmail.com*  
+
 
