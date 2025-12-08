@@ -146,17 +146,11 @@ Contributions are always welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 📞 Contact
 
 **Author:** Suru12415  
 **GitHub:** [Suru12415](https://github.com/Suru12415)  
 **Email:** *try.sureshtak@gmail.com*  
+
 
 
